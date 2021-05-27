@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saumya81
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning competative programmin
+- 🌱 I’m currently learning competative programming
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - saumyashrivastava81@gmail.com
 
